@@ -38,4 +38,4 @@ Launch the KOTH mod and enjoy the new loot table with items from Snafu Weapons, 
 
 Feel free to customize and adjust the loot table according to your preferences and server configuration. Remember to consult the KOTH mod documentation or community forums for additional information on mod usage and customization options.
 
-Enjoy your enhanced KOTH gaming experience with this loot table! If you have any questions or encounter issues, please refer to the mod's support resources for assistance.
+Enjoy your enhanced KOTH gaming experience with this loot table! If you have any questions or encounter issues, please refer to the mod's Discord for assistance https://discord.gg/va8EDatHAQ 
