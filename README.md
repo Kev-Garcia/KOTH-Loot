@@ -24,13 +24,23 @@ Expansion Items: These items include gold bars, gold nuggets, silver bars, and s
 
 Breaching Charges: Find breaching charges from the breaching charge mod. This loot file contains one heavy breaching charge, along with a chance to spawn breaching charge build components.
 
-## KOTH Event Configuration 
+## KOTH Event Configuration
 
-In addition to the loot table, I have added a chernarusplus.json file that controls when and how often KOTH events take place on the server. Here's the event configuration specified in the chernarusplus.json file:
+In addition to the loot table, you have added a chernarusplus.json file that controls when and how often KOTH events take place on the server. Here's the event configuration specified in the chernarusplus.json file:
 
 KOTH events take place every 2 hours.
+
 Events will only spawn once the server is populated with 3 or more players.
+
 This configuration ensures that KOTH events are scheduled at regular intervals and only initiate when a sufficient number of players are present, creating a dynamic and engaging gameplay experience.
+
+Note: You have made some specific edits to the chernarusplus.json file:
+
+You have moved the Krasno Airfield KOTH event out of range of an expansion trader safe zone, potentially increasing the challenge and excitement of the event.
+
+Additionally, you have added KOTH events at town centers in Elektrozavodsk and Chernogorsk, providing players with more diverse locations to engage in KOTH battles.
+
+These customizations aim to enhance the overall gameplay experience and strategic options available to players on your server.
 
 ## Usage
 
