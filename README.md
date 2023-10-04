@@ -25,7 +25,7 @@ Expansion Items: Explore expansion items that add depth and complexity to the KO
 Breaching Charges: Find breaching charges that can be used to gain entry into secure areas and change the tide of battles.
 
 KOTH Event Configuration
-In addition to the loot table, you have added a chernarusplus.json file that controls when and how often KOTH events take place in the mod. Here's the event configuration specified in the chernarusplus.json file:
+In addition to the loot table, I have added a chernarusplus.json file that controls when and how often KOTH events take place in the server. Here's the event configuration specified in the chernarusplus.json file:
 
 KOTH events take place every 2 hours.
 Events will only spawn once the server is populated with 3 or more players.
