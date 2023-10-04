@@ -1,6 +1,7 @@
 KOTH Mod Loot Table README
 
 Introduction
+
 Welcome to the README for the loot JSON file designed for the KOTH (King of the Hill) mod created by MDC. This loot table has been carefully crafted to include a variety of items from Snafu Weapons, MMG Gear/ MMG raid toolss, expansion items, and Breaching charges. This document provides an overview of the contents and how to use this loot JSON file within the KOTH mod.
 
 Table of Contents
