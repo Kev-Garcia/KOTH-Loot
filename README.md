@@ -1,7 +1,7 @@
 KOTH Mod Loot Table README
 
 Introduction
-Welcome to the README for the loot JSON file designed for the KOTH (King of the Hill) mod created by MDC. This loot table has been carefully crafted to include a variety of items from Snafu Weapons, MMG Gear/ MMG raid tool, expansion items, and Breaching charges. This document provides an overview of the contents and how to use this loot JSON file within the KOTH mod.
+Welcome to the README for the loot JSON file designed for the KOTH (King of the Hill) mod created by MDC. This loot table has been carefully crafted to include a variety of items from Snafu Weapons, MMG Gear/ MMG raid tools, expansion items, and Breaching charges. This document provides an overview of the contents and how to use this loot JSON file within the KOTH mod.
 
 Table of Contents
 File Description
@@ -17,11 +17,11 @@ This loot table includes a variety of items and gear from the following sources:
 
 Snafu Weapons: Expect to find a selection of weapons from the Snafu Weapons arsenal. These items can provide unique advantages and firepower for your KOTH gameplay.
 
-MMG Gear/ MMG Raid Tool: Discover essential gear and raid tools related to MMG. These items can enhance your gameplay and provide strategic advantages.
+MMG Gear/ MMG Raid Tools: Discover essential gear and raid tools related to MMG. These items can enhance your gameplay and provide strategic advantages.
 
 Expansion Items: Explore expansion items that add depth and complexity to the KOTH mod. These items can change the way you approach the game and offer new challenges.
 
-Breaching Charges: Find breaching charges that can be used to gain entry into secure areas and change the tide of battles.
+Breaching Charges: Find breaching charges that can be used to gain entry into secure areas.
 
 Usage
 To use this loot JSON file with the KOTH mod, follow these steps:
