@@ -1,0 +1,1200 @@
+{
+    "lootSets": [
+        {
+            "name": "Sniper Pack 1",
+            "items": [
+                {
+                    "name": "SNAFUAX50_GUN",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUAX50_Mag",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_Nightforce",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "SNAFUAX50_Mag",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "GhillieHood_Mossy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "GhillieTop_Mossy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "GhillieSuit_Mossy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "SewingKit",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "LeatherSewingKit",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Rangefinder",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "Battery9v",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Sniper Pack 2",
+            "items": [
+                {
+                    "name": "GCGN_M82_Barret",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "GCGN_M82_Mag",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_Nightforce",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_50bmg_Suppressor_B",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "GCGN_M82_Mag",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "GhillieHood_Mossy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "GhillieTop_Mossy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "GhillieSuit_Mossy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "SewingKit",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "LeatherSewingKit",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Rangefinder",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "Battery9v",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Sniper Pack 3",
+            "items": [
+                {
+                    "name": "SNAFUVSSK",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUVSSK_5rdMag",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_Nightforce",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_VSSKbipod",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "SNAFUVSSK_5rdMag",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "GhillieHood_Mossy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "GhillieTop_Mossy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "GhillieSuit_Mossy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "SewingKit",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "LeatherSewingKit",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Rangefinder",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "Battery9v",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Sniper Pack 4",
+            "items": [
+                {
+                    "name": "SNAFUTac21",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUTac21_5rdMag",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_Nightforce",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "SNAFUTac21_5rdMag",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "GhillieHood_Mossy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "GhillieTop_Mossy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "GhillieSuit_Mossy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "SewingKit",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "LeatherSewingKit",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Rangefinder",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "Battery9v",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Sniper Pack 5",
+            "items": [
+                {
+                    "name": "SNAFU_MAR10_Black_GUN",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_Mar10_15rnd_Mag",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_Nightforce",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFUKivaari_338_Supp",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_Bipod",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "SNAFU_Mar10_15rnd_Mag",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "GhillieHood_Mossy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "GhillieTop_Mossy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "GhillieSuit_Mossy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "SewingKit",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "LeatherSewingKit",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Rangefinder",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "Battery9v",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Builder Pack",
+            "items": [
+                {
+                    "name": "NailBox",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "NailBox",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "NailBox",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "NailBox",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Hammer",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HandSaw",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Hatchet",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Pliers",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Screwdriver",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "MetalWire",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Rope",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "ExpansionCodeLock",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Camonet",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "ExpansionGoldBar",
+                    "quantity": 1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "ExpansionGoldBar",
+                    "quantity": 1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Treasure Pack",
+            "items": [
+                {
+                    "name": "Deagle_Gold",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "ExpansionGoldBar",
+                    "quantity": 1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "ExpansionSilverBar",
+                    "quantity": 1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Raid Pack ",
+            "items": [
+                {
+                    "name": "HDSN_C4Stick",
+                    "quantity": 1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Raid Pack ",
+            "items": [
+                {
+                    "name": "HDSN_BreachingChargeHeavy",
+                    "quantity": 1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Raid Pack ",
+            "items": [
+                {
+                    "name": "HDSN_Charcoal",
+                    "quantity": 1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HDSN_Sulfur",
+                    "quantity": 1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HDSN_Detonator",
+                    "quantity": 1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HDSN_Gunpowder",
+                    "quantity": 1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Raid Pack ",
+            "items": [
+                {
+                    "name": "mmg_raidsaw",
+                    "quantity": 1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Raid Pack ",
+            "items": [
+                {
+                    "name": "mmg_raid_driver",
+                    "quantity": 1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Rambo Pack",
+            "items": [
+                {
+                    "name": "Snafu_pkp_Black_GUN",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "Snafu_pkp_250RND_Mag",
+                            "quantity": 200,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "M67Grenade",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HuntingKnife",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "M67Grenade",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Grenade_ChemGas",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Grenade_ChemGas",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "WeaponCleaningKit",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Rambo Pack M79 Chemgas",
+            "items": [
+                {
+                    "name": "M79",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Ammo_40mm_Chemgas",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Ammo_40mm_Chemgas",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Ammo_40mm_Chemgas",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Ammo_40mm_Chemgas",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Grenade_ChemGas",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Grenade_ChemGas",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Rambo Pack LAW",
+            "items": [
+                {
+                    "name": "ExpansionLAW",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "ExpansionAmmoLAW",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "ExpansionAmmoLAW",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "ExpansionAmmoLAW",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "ExpansionAmmoLAW",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Rambo Pack RPG",
+            "items": [
+                {
+                    "name": "ExpansionRPG7",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "ExpansionAmmoRPG",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "ExpansionAmmoRPG",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "ExpansionAmmoRPG",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "ExpansionAmmoRPG",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Rambo Pack M249",
+            "items": [
+                {
+                    "name": "GCGN_M249",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "GCGN_M249_Mag",
+                            "quantity": 200,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_EOTech_EXPS3",
+                            "quantity": -1,
+                            "attachments": [
+                                {
+                                    "name": "Battery9v",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                }
+                            ],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_M249HG",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_M249Stock",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_M249Bipod",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_M249Grip",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_FGKAC_Grip",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "M67Grenade",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "M67Grenade",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HuntingKnife",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Grenade_ChemGas",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Grenade_ChemGas",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "WeaponCleaningKit",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "MKV Plate Carrier Multicam Black",
+            "items": [
+                {
+                    "name": "MMG_MK_V_Armor_multicamblack",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "MMG_double_magpouch_multicamblack",
+                            "quantity": 1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_double_magpouch_multicamblack",
+                            "quantity": 1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_sheath_multicamblack",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": [
+                                {
+                                    "name": "CombatKnife",
+                                    "quantity": 2,
+                                    "attachments": [],
+                                    "cargo": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MMG_holster_pouch_black",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_mk5_utility_pouch_multicamblack",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_mk_V_grenade_pouch_multicamblack",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": [
+                                {
+                                    "name": "M67Grenade",
+                                    "quantity": 1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "M67Grenade",
+                                    "quantity": 1,
+                                    "attachments": [],
+                                    "cargo": []
+                                }
+                            ]
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "MMG_striker_helmet_multicamblack",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "mmg_gp_nvg_green",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "UniversalLight",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "MKV Plate Carrier multicam",
+            "items": [
+                {
+                    "name": "MMG_MK_V_Armor_multicam",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "MMG_double_magpouch_multicam",
+                            "quantity": 1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_double_magpouch_multicam",
+                            "quantity": 1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_sheath_multicam",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": [
+                                {
+                                    "name": "CombatKnife",
+                                    "quantity": 2,
+                                    "attachments": [],
+                                    "cargo": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MMG_holster_pouch_green",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_mk5_utility_pouch_multicam",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_mk_V_grenade_pouch_multicam",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": [
+                                {
+                                    "name": "M67Grenade",
+                                    "quantity": 1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "M67Grenade",
+                                    "quantity": 1,
+                                    "attachments": [],
+                                    "cargo": []
+                                }
+                            ]
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "MMG_striker_helmet_multicam",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "mmg_gp_nvg_green",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "UniversalLight",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "MKV Plate Carrier Green",
+            "items": [
+                {
+                    "name": "MMG_MK_V_Armor_green",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "MMG_double_magpouch_green",
+                            "quantity": 1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_double_magpouch_green",
+                            "quantity": 1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_sheath_olive",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": [
+                                {
+                                    "name": "CombatKnife",
+                                    "quantity": 2,
+                                    "attachments": [],
+                                    "cargo": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MMG_holster_pouch_green",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_mk5_utility_pouch_green",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_mk_V_grenade_pouch_green",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": [
+                                {
+                                    "name": "M67Grenade",
+                                    "quantity": 1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "M67Grenade",
+                                    "quantity": 1,
+                                    "attachments": [],
+                                    "cargo": []
+                                }
+                            ]
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "MMG_striker_helmet_green",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "mmg_gp_nvg_green",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "UniversalLight",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "MKV Plate Carrier Black",
+            "items": [
+                {
+                    "name": "MMG_MK_V_Armor_black",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "MMG_double_magpouch_black",
+                            "quantity": 1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_double_magpouch_black",
+                            "quantity": 1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_sheath_black",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": [
+                                {
+                                    "name": "CombatKnife",
+                                    "quantity": 2,
+                                    "attachments": [],
+                                    "cargo": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MMG_holster_pouch_black",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_mk5_utility_pouch_black",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "MMG_mk_V_grenade_pouch_black",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": [
+                                {
+                                    "name": "M67Grenade",
+                                    "quantity": 1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "M67Grenade",
+                                    "quantity": 1,
+                                    "attachments": [],
+                                    "cargo": []
+                                }
+                            ]
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "MMG_striker_helmet_black",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "mmg_gp_nvg_black",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "UniversalLight",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        }
+    ]
+}
