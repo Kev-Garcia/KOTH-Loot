@@ -36,11 +36,9 @@ This configuration ensures that KOTH events are scheduled at regular intervals a
 
 Note: You have made some specific edits to the chernarusplus.json file:
 
-You have moved the Krasno Airfield KOTH event out of range of an expansion trader safe zone, potentially increasing the challenge and excitement of the event.
+I have moved the Krasno Airfield KOTH event out of range of an expansion trader safe zone.
 
-Additionally, you have added KOTH events at town centers in Elektrozavodsk and Chernogorsk, providing players with more diverse locations to engage in KOTH battles.
-
-These customizations aim to enhance the overall gameplay experience and strategic options available to players on your server.
+Additionally, I have added KOTH events at town centers in Elektrozavodsk and Chernogorsk, providing players with more diverse locations to engage in KOTH battles.
 
 ## Usage
 
