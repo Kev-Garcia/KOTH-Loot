@@ -34,7 +34,7 @@ Events will only spawn once the server is populated with 3 or more players.
 
 This configuration ensures that KOTH events are scheduled at regular intervals and only initiate when a sufficient number of players are present, creating a dynamic and engaging gameplay experience.
 
-Note: You have made some specific edits to the chernarusplus.json file:
+Note: I have made some specific edits to the chernarusplus.json file:
 
 I have moved the Krasno Airfield KOTH event out of range of an expansion trader safe zone.
 
