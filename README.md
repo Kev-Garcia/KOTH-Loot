@@ -44,4 +44,4 @@ Additionally, I have added KOTH events at town centers in Elektrozavodsk and Che
 
 Feel free to customize and adjust the loot table and event configuration according to your preferences and server requirements. Remember to consult the KOTH mod documentation or community forums for additional information on mod usage and customization options.
 
-Enjoy your enhanced KOTH gaming experience with this loot table! If you have any questions or encounter issues, please refer to the KOTH mod's Discord for assistance: https://discord.gg/va8EDatHAQ
+Enjoy your enhanced KOTH gaming experience with this loot table! If you have any questions or encounter issues, please refer to the KOTH mod's Discord for assistance: https://discord.gg/hWV8P4qvN7
